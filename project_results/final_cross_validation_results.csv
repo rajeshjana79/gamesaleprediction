@@ -1,0 +1,4 @@
+Model,Mean CV MAE
+Tuned Random Forest,0.47792996729173487
+Tuned Decision Tree,0.516726889330635
+Linear Regression,0.521302927758071
